@@ -3,12 +3,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building web application.
-- 🌱 I’m currently learning nodejs and expressjs.
+- 🔭 I’m currently working as a ful stack developer at salesken.ai
+- 🌱 I’m currently learning java frameoworks.
 - 👯 I’m looking to collaborate on solving complex problems.
-- 🤔 I’m looking for help with advanced-react.
-- 💬 Ask me about MERN stack web development.
+- 🤔 I’m looking for help with react.
+- 💬 Ask me about Java and MERN stack web development.
 - 📫 How to reach me: [Mail](sudhirsamantaray33@gmail.com)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: ...
-
+- while(true) doCoding();
