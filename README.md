@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a ful stack developer at salesken.ai
-- 🌱 I’m currently learning java frameoworks.
+- 🔭 I’m currently working as a ful stack engineer at SSI
+-  🌱 I’m currently learning java frameoworks.
 - 👯 I’m looking to collaborate on solving complex problems.
 - 🤔 I’m looking for help with react.
 - 💬 Ask me about Java and MERN stack web development.
